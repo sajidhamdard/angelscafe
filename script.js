@@ -1,1 +1,1 @@
-console.log("Hello KFC");
+console.log("Hello Burger King");
